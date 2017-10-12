@@ -1,8 +1,13 @@
 body {
   color:salmon;
+<<<<<<< HEAD
   margin:10px;
   border:1px solid red
 }
+=======
+
+
+>>>>>>> feature-a
 
 h1 {
   color:blue;
